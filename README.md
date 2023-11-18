@@ -12,8 +12,9 @@
     <a href="LICENSE">
         <img src="https://img.shields.io/github/license/hxf1228/hfn-current-fd.svg"></a>
     <a href="https://dx.doi.org/10.1088/1361-6501/ad099b">
-        <img src="https://img.shields.io/badge/DOI-10.1088/1361-6501/ad099b-orange"></a>
+        <img src="https://img.shields.io/badge/DOI-10.1088.1361.6501.ad099b-orange"></a>
 </p>
+
 
 This repository contains source code for MST paper "Three-Dimensional Hybrid Fusion Networks for Current-based Bearing Fault Diagnosis". 
 
