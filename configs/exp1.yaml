@@ -1,0 +1,7 @@
+data:
+  train_ratio: 0.9
+path:
+  h5path: /home/hxf/fault-diagnosis/current-fd/data/mvmd.h5
+
+params:
+  batch_size: 256

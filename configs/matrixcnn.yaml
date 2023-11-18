@@ -1,0 +1,6 @@
+data:
+  train_ratio: 0.9
+path:
+  matpath: /home/hxf/fault-diagnosis/current-fd/data/raw_matrix_1.h5
+params:
+  batch_size: 256

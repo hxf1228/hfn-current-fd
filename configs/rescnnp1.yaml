@@ -1,0 +1,6 @@
+data:
+  train_ratio: 0.9
+path:
+  matpath: /home/hxf/fault-diagnosis/current-fd/data/vmd_rgb_p1.h5
+params:
+  batch_size: 256
